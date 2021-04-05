@@ -1,7 +1,6 @@
 # Playlist merger
 Merge two youtube playlists.
 
-Use selenium wabdriver to add all videos from a youtube playlist into another playlist.
-- Youtube login
-- Chose from which youtube playlist to get
-- Chose into which youtube playlist to put
+Finally this project has no interest, on youtube music we can merge two playlists on the condition that the playlist of arrival belongs to us.
+
+[Here](https://music.youtube.com/library/playlists).
